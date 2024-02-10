@@ -1,0 +1,4 @@
+Nombre del estudiante: Axel Eduardo Cruz Hernandez
+Notas: 89.0, 67.0, 90.0, 70.0
+Promedio: 79.0
+
